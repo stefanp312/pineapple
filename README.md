@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pineapple
 
 You can use the [editor on GitHub](https://github.com/stefanp312/pineapple/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
